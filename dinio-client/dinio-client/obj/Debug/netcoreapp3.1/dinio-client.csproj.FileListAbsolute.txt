@@ -1,0 +1,14 @@
+C:\Users\ann\source\repos\dinio-client\dinio-client\bin\Debug\netcoreapp3.1\dinio-client.exe
+C:\Users\ann\source\repos\dinio-client\dinio-client\bin\Debug\netcoreapp3.1\dinio-client.deps.json
+C:\Users\ann\source\repos\dinio-client\dinio-client\bin\Debug\netcoreapp3.1\dinio-client.runtimeconfig.json
+C:\Users\ann\source\repos\dinio-client\dinio-client\bin\Debug\netcoreapp3.1\dinio-client.runtimeconfig.dev.json
+C:\Users\ann\source\repos\dinio-client\dinio-client\bin\Debug\netcoreapp3.1\dinio-client.dll
+C:\Users\ann\source\repos\dinio-client\dinio-client\bin\Debug\netcoreapp3.1\dinio-client.pdb
+C:\Users\ann\source\repos\dinio-client\dinio-client\obj\Debug\netcoreapp3.1\dinio-client.AssemblyInfoInputs.cache
+C:\Users\ann\source\repos\dinio-client\dinio-client\obj\Debug\netcoreapp3.1\dinio-client.AssemblyInfo.cs
+C:\Users\ann\source\repos\dinio-client\dinio-client\obj\Debug\netcoreapp3.1\dinio-client.dll
+C:\Users\ann\source\repos\dinio-client\dinio-client\obj\Debug\netcoreapp3.1\dinio-client.pdb
+C:\Users\ann\source\repos\dinio-client\dinio-client\obj\Debug\netcoreapp3.1\dinio-client.genruntimeconfig.cache
+C:\Users\ann\source\repos\dinio-client\dinio-client\bin\Debug\netcoreapp3.1\websocket-sharp.dll
+C:\Users\ann\source\repos\dinio-client\dinio-client\obj\Debug\netcoreapp3.1\dinio-client.csproj.CoreCompileInputs.cache
+C:\Users\ann\source\repos\dinio-client\dinio-client\obj\Debug\netcoreapp3.1\dinio-client.csproj.CopyComplete

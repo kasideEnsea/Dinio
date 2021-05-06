@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "cS9y9ObhncPksum4lysDqaMKWwDNp0i23r/pYt9uNqU2f1m5BvMfONH9ANiLc7B8R/CTaHUiUprZMMFxhfOiMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ann\\source\\repos\\dinio-client\\dinio-client\\dinio-client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ann\\.nuget\\packages\\websocketsharp-nonprerelease\\1.0.0\\websocketsharp-nonprerelease.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"WebSocketSharp-NonPreRelease 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "WebSocketSharp-NonPreRelease",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
