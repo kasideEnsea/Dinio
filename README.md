@@ -14,3 +14,5 @@
 ## Ссылки
 * [Trello](https://trello.com/b/0PE9B3LV/dinio)
 * [Miro](https://miro.com/app/board/o9J_lP3wXbM=/)
+* [Репозиторий с клиентской частью](https://gitlab.com/artvved/dinio_client_posh)
+* [Репозиторий с серверной частью](https://gitlab.com/artvved/dinio_server)
